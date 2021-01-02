@@ -1,0 +1,3 @@
+language = "bash"
+run = "" 
+#git status, git add e git commit
